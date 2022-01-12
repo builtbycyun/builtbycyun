@@ -5,6 +5,7 @@
 - **LOL Item Advisor:** A client for the game League of Legends that makes use of machine learning to optimise decision making and strategy.
 ## 🌱 I’m currently learning ...
 - [Typescript](https://www.typescriptlang.org/)
+- [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 
 ## 📫 How to reach me:
