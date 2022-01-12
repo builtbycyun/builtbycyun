@@ -1,4 +1,4 @@
-# Hey!, my name's Chris!👋
+# Hey, my name's Chris!👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiCYun&langs_count=8)](https://github.com/KamiCYun)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiCYun&theme=radical)](https://github.com/KamiCYun)
 
