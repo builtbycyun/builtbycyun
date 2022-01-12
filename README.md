@@ -1,5 +1,6 @@
 # Hey!, my name's Chris!👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiCYun&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamiCYun&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔭 I’m currently working on ...
 - **SpeakEZ:** A web-based bot security script that implements browser fingerprinting and machine learning to distinguish bots from humans.
