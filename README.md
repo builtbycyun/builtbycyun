@@ -11,6 +11,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
+- [Solidity](https://soliditylang.org/)
 
 ## 📫 How to reach me:
 - kamicyun@gmail.com
