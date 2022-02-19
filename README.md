@@ -5,7 +5,6 @@
 - **SpeakEZ:** A web-based bot security script that implements browser fingerprinting and machine learning to distinguish bots from humans.
 - **JSObfuscator:** Javascript source code obfuscator that makes use of string concealment and control flow flattening.
 - **Midas Investments:** A quantitive trading algorithm and the infrastructure required to execute trades in real time.
-- **LOL Item Advisor:** A client for the game League of Legends that makes use of machine learning to optimize decision making and strategy.
 
 ## 🌱 I’m currently learning ...
 - [Typescript](https://www.typescriptlang.org/)
