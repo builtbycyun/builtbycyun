@@ -3,8 +3,7 @@
 
 ## 🔭 I’m currently working on ...
 - **SpeakEZ:** A web-based bot security script that implements browser fingerprinting and machine learning to distinguish bots from humans.
-- **JSObfuscator:** Javascript source code obfuscator that makes use of string concealment and control flow flattening.
-- **Midas Investments:** A quantitive trading algorithm and the infrastructure required to execute trades in real time.
+- **Blockdoku AI:** A machine learning model trained to play the mobile game blockdoku since I can't beat my friend's high score.
 
 ## 🌱 I’m currently learning ...
 - [Typescript](https://www.typescriptlang.org/)
