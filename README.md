@@ -3,7 +3,7 @@
 
 ## 🔭 I’m currently working on ...
 - **SpeakEZ:** A web-based bot security script that implements browser fingerprinting and machine learning to distinguish bots from humans.
-- **Blockdoku AI:** A machine learning model trained to play the mobile game blockdoku since I can't beat my friend's high score.
+- **JobFinder (Better Name Pending):** A suite of tools to automate the job finding process.
 
 ## 🌱 I’m currently learning ...
 - [Typescript](https://www.typescriptlang.org/)
@@ -12,4 +12,4 @@
 - [Solidity](https://soliditylang.org/)
 
 ## 📫 How to reach me:
-- kamicyun@gmail.com
+- cyunsoftware@gmail.com
