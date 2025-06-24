@@ -5,7 +5,7 @@
 
 ---
 
-I'm a CS grad passionate about building tools that **automate work**, **leverage AI**, and **help people land jobs**. I combine practical engineering with fast-moving technologies to create projects that solve real problems.
+I'm a CS graduate from the University of Maryland, College Park passionate about building tools that **automate work**, **leverage AI**, and **help people land jobs**. I combine practical engineering with fast-moving technologies to create projects that solve real problems.
 
 ---
 
