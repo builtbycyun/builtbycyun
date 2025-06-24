@@ -1,6 +1,6 @@
 # Hey, I’m Chris 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/KamiCYun?label=Follow&style=social)](https://github.com/KamiCYun)
+[![GitHub Followers](https://img.shields.io/github/followers/builtbycyun?label=Follow&style=social)](https://github.com/builtbycyun)
 [![Email](https://img.shields.io/badge/Email-cyunsoftware@gmail.com-blue)](mailto:cyunsoftware@gmail.com)
 
 ---
@@ -12,7 +12,7 @@ I'm a CS grad passionate about building tools that **automate work**, **leverage
 ## 📈 GitHub Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=KamiCYun&show_icons=true&theme=chartreuse-dark&hide=contribs&count_private=true" alt="GitHub Stats" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamiCYun&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbycyun&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
 
 ---
 
